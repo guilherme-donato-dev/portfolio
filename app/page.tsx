@@ -1,5 +1,4 @@
 import React from "react";
-import Head from "next/head";
 import "@fontsource/slabo-27px";
 
 const projects = [
