@@ -4,7 +4,7 @@ import "@fontsource/slabo-27px";
 const projects = [
   { name: "Sistema de revenda de carros.", description: "Um sistema de revenda de carros online, feito totalmente com Django e usando o PostgreSQL como Banco de dados. Utilizando a API da OpenAI para gerar automaticamente a descrição do carro.", link: "http://3.217.69.134/cars/" },
   { name: "Chatbot com RAG utilizando a API da OpenAI.", description: "Um chatbot usando a API da OpenAI. O chat pode fazer RAG, subindo um ou mais documentos. Pode também escolher qual modelo da OpenAI será utilizado.", link: "https://chatbot-rag-production-5f7e.up.railway.app/" },
-  { name: "Biblioteca de Filmes - API RESTful ", description: "API RESTful para uma biblioteca de filmes com Django Rest Framework, autenticação JWT e permissões para usuários cadastrados. Frontend em Streamlit exibindo estatísticas, filmes, gêneros, atores e permitindo avaliações.", link: "#" },
+  { name: "Biblioteca de Filmes - API RESTful ", description: "API RESTful para uma biblioteca de filmes com Django Rest Framework, autenticação JWT e permissões para usuários cadastrados. Frontend em Streamlit exibindo estatísticas, filmes, gêneros, atores e permitindo avaliações. User: teste Senha: testando22", link: "https://flixapp-donato.streamlit.app/" },
 ];
 
 export default function Home() {
