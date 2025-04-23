@@ -22,6 +22,12 @@ const projects = [
       "API RESTful para uma biblioteca de filmes com Django Rest Framework, autenticação JWT e permissões para usuários cadastrados. Frontend em Streamlit exibindo estatísticas, filmes, gêneros, atores e permitindo avaliações. User: teste Senha: testando22",
     link: "https://flixapp-donato.streamlit.app/",
   },
+  {
+    name: "Previsão do Tempo Global",
+    description:
+      "Site para consultar a previsão do tempo em cidades do mundo todo, utilizando a API da OpenWeather. Desenvolvido com HTML, CSS e JavaScript puro, permite buscar e visualizar informações como temperatura, umidade, sensação térmica e condições do clima em tempo real.",
+    link: "https://guilherme-donato-dev.github.io/open-weather/",
+  },
 ];
 
 const frases = [
