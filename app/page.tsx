@@ -4,18 +4,18 @@ import React, { useEffect, useState } from "react";
 import "@fontsource/slabo-27px";
 
 const projects = [
-  /*{
+  {
     name: "Sistema de revenda de carros.",
     description:
       "Um sistema de revenda de carros online, feito totalmente com Django e usando o PostgreSQL como Banco de dados. Utilizando a API da OpenAI para gerar automaticamente a descrição do carro.",
-    link: "http://3.217.69.134/cars/",
-  },*/
-  {
+    link: "https://carros-django.onrender.com/cars/",
+  },
+  /*{
     name: "Chatbot com RAG utilizando a API da OpenAI.",
     description:
       "Um chatbot usando a API da OpenAI. O chat pode fazer RAG, subindo um ou mais documentos. Pode também escolher qual modelo da OpenAI será utilizado.",
     link: "https://chatbot-rag-production-5f7e.up.railway.app/",
-  },
+  },*/
   {
     name: "Biblioteca de Filmes - API RESTful ",
     description:
