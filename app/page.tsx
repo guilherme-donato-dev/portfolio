@@ -4,12 +4,12 @@ import React, { useEffect, useState } from "react";
 import "@fontsource/slabo-27px";
 
 const projects = [
-  {
+  /*{
     name: "Sistema de revenda de carros.",
     description:
       "Um sistema de revenda de carros online, feito totalmente com Django e usando o PostgreSQL como Banco de dados. Utilizando a API da OpenAI para gerar automaticamente a descrição do carro.",
     link: "http://3.217.69.134/cars/",
-  },
+  },*/
   {
     name: "Chatbot com RAG utilizando a API da OpenAI.",
     description:
