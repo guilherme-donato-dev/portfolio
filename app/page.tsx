@@ -28,6 +28,13 @@ const projects = [
       "Site para consultar a previsão do tempo em cidades do mundo todo, utilizando a API da OpenWeather. Desenvolvido com HTML, CSS e JavaScript puro, permite buscar e visualizar informações como temperatura, umidade, sensação térmica e condições do clima em tempo real.",
     link: "https://guilherme-donato-dev.github.io/open-weather/",
   },
+
+  {
+    name: "Resumidor de Texto com IA",
+    description:
+      "Aplicação web para resumir artigos e páginas online, utilizando a API da OpenAI. Desenvolvido com Python (Django/DRF para a API e Streamlit para a interface), permite ao usuário inserir uma URL, extrair o conteúdo da página e exibir um resumo conciso gerado por IA.",
+    link: "https://app-resume-api.streamlit.app/",
+  },
 ];
 
 const frases = [
