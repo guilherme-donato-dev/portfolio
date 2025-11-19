@@ -7,7 +7,7 @@ const projects = [
   {
     name: "Sistema de revenda de carros.",
     description:
-      "Um sistema de revenda de carros online, feito totalmente com Django e usando o PostgreSQL como Banco de dados. Utilizando a API da OpenAI para gerar automaticamente a descrição do carro.",
+      "Um sistema de revenda de carros online, feito totalmente com Django e usando o PostgreSQL como Banco de dados. Utilizando a API da OpenAI para gerar automaticamente a descrição do carro. User: teste | Senha: testando123",
     link: "https://carros-django.onrender.com/cars/",
   },
   /*{
@@ -61,12 +61,7 @@ export default function Home() {
         {/* Sobre mim */}
         <div className="max-w-3xl text-center mb-8">
           <p className="text-gray-300 text-sm">
-          Eu sou o Guilherme Donato, 23 anos, e estou em busca de ingressar na área de
-          desenvolvimento. Tenho conhecimento e experiência com projetos pessoais e
-          acadêmicos, trabalhando com Python, backend com Django e frontend/back-end com
-          Next.js. Também atuo com bancos de dados SQL, AWS e Inteligência Artificial para
-          criação de chatbots e integração da IA em apps web. Me formando em Análise e
-          Desenvolvimento de Sistemas em julho de 2025.
+          Sou Guilherme Donato, 24 anos, desenvolvedor backend formado em Análise e Desenvolvimento de Sistemas, com experiência em Python, Django, FastAPI e desenvolvimento full stack com Next.js. Ao longo de projetos pessoais e acadêmicos, trabalhei com bancos de dados SQL, AWS e integrações de Inteligência Artificial, incluindo criação de chatbots e uso de modelos de IA em aplicações web. Atualmente, estou ampliando minhas habilidades estudando Golang, buscando criar soluções cada vez mais robustas, escaláveis e alinhadas às necessidades reais do mercado.
           </p>
         </div>
 
